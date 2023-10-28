@@ -1,0 +1,15 @@
+.leftfriend{
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+}
+.friendimage{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    object-fit:cover;
+    margin-right: 10px;
+}
+.friendname{
+    font-weight: 500;
+}
